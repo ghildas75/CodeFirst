@@ -1,0 +1,10 @@
+C:\Users\Portable\Source\Repos\Delugue\Delugue\bin\Debug\netcoreapp1.1\Delugue.deps.json
+C:\Users\Portable\Source\Repos\Delugue\Delugue\bin\Debug\netcoreapp1.1\Delugue.runtimeconfig.json
+C:\Users\Portable\Source\Repos\Delugue\Delugue\bin\Debug\netcoreapp1.1\Delugue.runtimeconfig.dev.json
+C:\Users\Portable\Source\Repos\Delugue\Delugue\bin\Debug\netcoreapp1.1\Delugue.dll
+C:\Users\Portable\Source\Repos\Delugue\Delugue\bin\Debug\netcoreapp1.1\Delugue.pdb
+C:\Users\Portable\Source\Repos\Delugue\Delugue\obj\Debug\netcoreapp1.1\Delugue.csprojResolveAssemblyReference.cache
+C:\Users\Portable\Source\Repos\Delugue\Delugue\obj\Debug\netcoreapp1.1\Delugue.csproj.CoreCompileInputs.cache
+C:\Users\Portable\Source\Repos\Delugue\Delugue\obj\Debug\netcoreapp1.1\Delugue.AssemblyInfo.cs
+C:\Users\Portable\Source\Repos\Delugue\Delugue\obj\Debug\netcoreapp1.1\Delugue.dll
+C:\Users\Portable\Source\Repos\Delugue\Delugue\obj\Debug\netcoreapp1.1\Delugue.pdb

@@ -1,0 +1,7 @@
+C:\Users\Portable\Source\Repos\OrderBYASCDESC\OrderBYASCDESC\bin\Debug\OrderBYASCDESC.exe.config
+C:\Users\Portable\Source\Repos\OrderBYASCDESC\OrderBYASCDESC\bin\Debug\OrderBYASCDESC.exe
+C:\Users\Portable\Source\Repos\OrderBYASCDESC\OrderBYASCDESC\bin\Debug\OrderBYASCDESC.pdb
+C:\Users\Portable\Source\Repos\OrderBYASCDESC\OrderBYASCDESC\obj\Debug\OrderBYASCDESC.csprojResolveAssemblyReference.cache
+C:\Users\Portable\Source\Repos\OrderBYASCDESC\OrderBYASCDESC\obj\Debug\OrderBYASCDESC.csproj.CoreCompileInputs.cache
+C:\Users\Portable\Source\Repos\OrderBYASCDESC\OrderBYASCDESC\obj\Debug\OrderBYASCDESC.exe
+C:\Users\Portable\Source\Repos\OrderBYASCDESC\OrderBYASCDESC\obj\Debug\OrderBYASCDESC.pdb

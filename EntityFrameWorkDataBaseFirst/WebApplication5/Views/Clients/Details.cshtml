@@ -1,0 +1,48 @@
+﻿@model WebApplication5.Models.Client
+
+@{
+    ViewData["Title"] = "Details";
+}
+
+<h2>Details</h2>
+
+<div>
+    <h4>Client</h4>
+    <hr />
+    <dl class="dl-horizontal">
+        <dt>
+            @Html.DisplayNameFor(model => model.CliPrenom)
+        </dt>
+        <dd>
+            @Html.DisplayFor(model => model.CliPrenom)
+        </dd>
+        <dt>
+            @Html.DisplayNameFor(model => model.CliNom)
+        </dt>
+        <dd>
+            @Html.DisplayFor(model => model.CliNom)
+        </dd>
+        <dt>
+            @Html.DisplayNameFor(model => model.CliRue)
+        </dt>
+        <dd>
+            @Html.DisplayFor(model => model.CliRue)
+        </dd>
+        <dt>
+            @Html.DisplayNameFor(model => model.CliVille)
+        </dt>
+        <dd>
+            @Html.DisplayFor(model => model.CliVille)
+        </dd>
+        <dt>
+            @Html.DisplayNameFor(model => model.CliTelephone)
+        </dt>
+        <dd>
+            @Html.DisplayFor(model => model.CliTelephone)
+        </dd>
+    </dl>
+</div>
+<div>
+    <a asp-action="Edit" asp-route-id="@Model.CliNo">Edit</a> |
+    <a asp-action="Index">Back to List</a>
+</div>

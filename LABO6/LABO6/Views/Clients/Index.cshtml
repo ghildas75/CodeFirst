@@ -1,0 +1,71 @@
+﻿@model IEnumerable<LABO6.Models.Client>
+
+@{
+    ViewData["Title"] = "Index";
+}
+
+<h2>Index</h2>
+
+<p>
+    <a asp-action="Create">Create New</a>
+</p>
+<table class="table">
+    <thead>
+        <tr>
+                <th>
+                    @Html.DisplayNameFor(model => model.ClientID)
+                </th>
+                <th>
+                    @Html.DisplayNameFor(model => model.CliPrenom)
+                </th>
+                <th>
+                    @Html.DisplayNameFor(model => model.CliNom)
+                </th>
+                <th>
+                    @Html.DisplayNameFor(model => model.CliDateNaiss)
+                </th>
+                <th>
+                    @Html.DisplayNameFor(model => model.CliRue)
+                </th>
+                <th>
+                    @Html.DisplayNameFor(model => model.CliVille)
+                </th>
+                <th>
+                    @Html.DisplayNameFor(model => model.CliTelephone)
+                </th>
+            <th></th>
+        </tr>
+    </thead>
+    <tbody>
+@foreach (var item in Model) {
+        <tr>
+            <td>
+                @Html.DisplayFor(modelItem => item.ClientID)
+            </td>
+            <td>
+                @Html.DisplayFor(modelItem => item.CliPrenom)
+            </td>
+            <td>
+                @Html.DisplayFor(modelItem => item.CliNom)
+            </td>
+            <td>
+                @Html.DisplayFor(modelItem => item.CliDateNaiss)
+            </td>
+            <td>
+                @Html.DisplayFor(modelItem => item.CliRue)
+            </td>
+            <td>
+                @Html.DisplayFor(modelItem => item.CliVille)
+            </td>
+            <td>
+                @Html.DisplayFor(modelItem => item.CliTelephone)
+            </td>
+            <td>
+                @Html.ActionLink("Edit", "Edit", new { /* id=item.PrimaryKey */ }) |
+                @Html.ActionLink("Details", "Details", new { /* id=item.PrimaryKey */ }) |
+                @Html.ActionLink("Delete", "Delete", new { /* id=item.PrimaryKey */ })
+            </td>
+        </tr>
+}
+    </tbody>
+</table>

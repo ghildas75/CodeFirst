@@ -1,0 +1,37 @@
+﻿
+@model WebApplication9.Models.Categorie
+@{
+    ViewData["Title"] = "ListCategories";
+}
+<div class="container col-md-6 col-sm-12 col-xs-12 spacer">
+@foreach(var c in Model)
+{
+  <div class="panel panel-default">
+      <div class="heading">@c.NomCategorie</div>
+      <div class="panel-body">
+          <table class="table table-striped">
+                  <tr>
+                  <th> ID </th> <th>DESIGNATION</th><th>PRIX</th>
+                  </tr>
+              @foreach (var p in c.Produits)
+              {
+               <tr>
+                   <td>@p.ProduitId</td>
+                   <td>@p.Prix</td>
+                   <td>@p.Designation</td>
+              
+              
+              </tr>
+
+              }
+
+          </table>
+      </div>
+  
+   </div>
+
+}
+</div>
+
+
+

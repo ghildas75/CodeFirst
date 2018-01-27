@@ -1,0 +1,10 @@
+c:\users\portable\Source\Repos\LaboLinq\LaboLinq\bin\Debug\netcoreapp1.1\LaboLinq.deps.json
+c:\users\portable\Source\Repos\LaboLinq\LaboLinq\bin\Debug\netcoreapp1.1\LaboLinq.runtimeconfig.json
+c:\users\portable\Source\Repos\LaboLinq\LaboLinq\bin\Debug\netcoreapp1.1\LaboLinq.runtimeconfig.dev.json
+c:\users\portable\Source\Repos\LaboLinq\LaboLinq\bin\Debug\netcoreapp1.1\LaboLinq.dll
+c:\users\portable\Source\Repos\LaboLinq\LaboLinq\bin\Debug\netcoreapp1.1\LaboLinq.pdb
+c:\users\portable\Source\Repos\LaboLinq\LaboLinq\obj\Debug\netcoreapp1.1\LaboLinq.csprojResolveAssemblyReference.cache
+c:\users\portable\Source\Repos\LaboLinq\LaboLinq\obj\Debug\netcoreapp1.1\LaboLinq.csproj.CoreCompileInputs.cache
+c:\users\portable\Source\Repos\LaboLinq\LaboLinq\obj\Debug\netcoreapp1.1\LaboLinq.AssemblyInfo.cs
+c:\users\portable\Source\Repos\LaboLinq\LaboLinq\obj\Debug\netcoreapp1.1\LaboLinq.dll
+c:\users\portable\Source\Repos\LaboLinq\LaboLinq\obj\Debug\netcoreapp1.1\LaboLinq.pdb

@@ -1,0 +1,10 @@
+C:\Users\Portable\Source\Repos\projetDicton\projetDicton\bin\Debug\netcoreapp1.1\projetDicton.deps.json
+C:\Users\Portable\Source\Repos\projetDicton\projetDicton\bin\Debug\netcoreapp1.1\projetDicton.runtimeconfig.json
+C:\Users\Portable\Source\Repos\projetDicton\projetDicton\bin\Debug\netcoreapp1.1\projetDicton.runtimeconfig.dev.json
+C:\Users\Portable\Source\Repos\projetDicton\projetDicton\bin\Debug\netcoreapp1.1\projetDicton.dll
+C:\Users\Portable\Source\Repos\projetDicton\projetDicton\bin\Debug\netcoreapp1.1\projetDicton.pdb
+C:\Users\Portable\Source\Repos\projetDicton\projetDicton\obj\Debug\netcoreapp1.1\projetDicton.csprojResolveAssemblyReference.cache
+C:\Users\Portable\Source\Repos\projetDicton\projetDicton\obj\Debug\netcoreapp1.1\projetDicton.csproj.CoreCompileInputs.cache
+C:\Users\Portable\Source\Repos\projetDicton\projetDicton\obj\Debug\netcoreapp1.1\projetDicton.AssemblyInfo.cs
+C:\Users\Portable\Source\Repos\projetDicton\projetDicton\obj\Debug\netcoreapp1.1\projetDicton.dll
+C:\Users\Portable\Source\Repos\projetDicton\projetDicton\obj\Debug\netcoreapp1.1\projetDicton.pdb

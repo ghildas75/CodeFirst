@@ -1,0 +1,11 @@
+C:\Users\Portable\Source\Repos\revLabo4\revLabo4\bin\Debug\revLabo4.exe.config
+C:\Users\Portable\Source\Repos\revLabo4\revLabo4\bin\Debug\revLabo4.exe
+C:\Users\Portable\Source\Repos\revLabo4\revLabo4\bin\Debug\revLabo4.pdb
+C:\Users\Portable\Source\Repos\revLabo4\revLabo4\obj\Debug\revLabo4.csprojResolveAssemblyReference.cache
+C:\Users\Portable\Source\Repos\revLabo4\revLabo4\obj\Debug\revLabo4.frmAffichageParProgrammation.resources
+C:\Users\Portable\Source\Repos\revLabo4\revLabo4\obj\Debug\revLabo4.frmMenu.resources
+C:\Users\Portable\Source\Repos\revLabo4\revLabo4\obj\Debug\revLabo4.Properties.Resources.resources
+C:\Users\Portable\Source\Repos\revLabo4\revLabo4\obj\Debug\revLabo4.csproj.GenerateResource.Cache
+C:\Users\Portable\Source\Repos\revLabo4\revLabo4\obj\Debug\revLabo4.csproj.CoreCompileInputs.cache
+C:\Users\Portable\Source\Repos\revLabo4\revLabo4\obj\Debug\revLabo4.exe
+C:\Users\Portable\Source\Repos\revLabo4\revLabo4\obj\Debug\revLabo4.pdb

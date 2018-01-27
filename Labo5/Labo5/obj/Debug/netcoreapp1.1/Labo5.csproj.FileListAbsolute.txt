@@ -1,0 +1,10 @@
+c:\users\portable\Source\Repos\Labo5\Labo5\bin\Debug\netcoreapp1.1\Labo5.deps.json
+c:\users\portable\Source\Repos\Labo5\Labo5\bin\Debug\netcoreapp1.1\Labo5.runtimeconfig.json
+c:\users\portable\Source\Repos\Labo5\Labo5\bin\Debug\netcoreapp1.1\Labo5.runtimeconfig.dev.json
+c:\users\portable\Source\Repos\Labo5\Labo5\bin\Debug\netcoreapp1.1\Labo5.dll
+c:\users\portable\Source\Repos\Labo5\Labo5\bin\Debug\netcoreapp1.1\Labo5.pdb
+c:\users\portable\Source\Repos\Labo5\Labo5\obj\Debug\netcoreapp1.1\Labo5.csprojResolveAssemblyReference.cache
+c:\users\portable\Source\Repos\Labo5\Labo5\obj\Debug\netcoreapp1.1\Labo5.csproj.CoreCompileInputs.cache
+c:\users\portable\Source\Repos\Labo5\Labo5\obj\Debug\netcoreapp1.1\Labo5.AssemblyInfo.cs
+c:\users\portable\Source\Repos\Labo5\Labo5\obj\Debug\netcoreapp1.1\Labo5.dll
+c:\users\portable\Source\Repos\Labo5\Labo5\obj\Debug\netcoreapp1.1\Labo5.pdb

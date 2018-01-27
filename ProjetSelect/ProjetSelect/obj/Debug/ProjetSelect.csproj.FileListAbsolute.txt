@@ -1,0 +1,7 @@
+C:\Users\Portable\Source\Repos\ProjetSelect\ProjetSelect\bin\Debug\ProjetSelect.exe.config
+C:\Users\Portable\Source\Repos\ProjetSelect\ProjetSelect\bin\Debug\ProjetSelect.exe
+C:\Users\Portable\Source\Repos\ProjetSelect\ProjetSelect\bin\Debug\ProjetSelect.pdb
+C:\Users\Portable\Source\Repos\ProjetSelect\ProjetSelect\obj\Debug\ProjetSelect.csprojResolveAssemblyReference.cache
+C:\Users\Portable\Source\Repos\ProjetSelect\ProjetSelect\obj\Debug\ProjetSelect.csproj.CoreCompileInputs.cache
+C:\Users\Portable\Source\Repos\ProjetSelect\ProjetSelect\obj\Debug\ProjetSelect.exe
+C:\Users\Portable\Source\Repos\ProjetSelect\ProjetSelect\obj\Debug\ProjetSelect.pdb

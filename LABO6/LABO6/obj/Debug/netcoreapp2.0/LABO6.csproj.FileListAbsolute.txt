@@ -1,0 +1,11 @@
+C:\Users\Portable\Source\Repos\LABO6\LABO6\bin\Debug\netcoreapp2.0\LABO6.deps.json
+C:\Users\Portable\Source\Repos\LABO6\LABO6\bin\Debug\netcoreapp2.0\LABO6.runtimeconfig.json
+C:\Users\Portable\Source\Repos\LABO6\LABO6\bin\Debug\netcoreapp2.0\LABO6.runtimeconfig.dev.json
+C:\Users\Portable\Source\Repos\LABO6\LABO6\bin\Debug\netcoreapp2.0\LABO6.dll
+C:\Users\Portable\Source\Repos\LABO6\LABO6\obj\Debug\netcoreapp2.0\LABO6.csprojResolveAssemblyReference.cache
+C:\Users\Portable\Source\Repos\LABO6\LABO6\obj\Debug\netcoreapp2.0\LABO6.csproj.CoreCompileInputs.cache
+C:\Users\Portable\Source\Repos\LABO6\LABO6\obj\Debug\netcoreapp2.0\LABO6.AssemblyInfoInputs.cache
+C:\Users\Portable\Source\Repos\LABO6\LABO6\obj\Debug\netcoreapp2.0\LABO6.AssemblyInfo.cs
+C:\Users\Portable\Source\Repos\LABO6\LABO6\bin\Debug\netcoreapp2.0\LABO6.pdb
+C:\Users\Portable\Source\Repos\LABO6\LABO6\obj\Debug\netcoreapp2.0\LABO6.dll
+C:\Users\Portable\Source\Repos\LABO6\LABO6\obj\Debug\netcoreapp2.0\LABO6.pdb

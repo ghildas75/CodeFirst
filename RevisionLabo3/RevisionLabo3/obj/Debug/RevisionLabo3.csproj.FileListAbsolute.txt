@@ -1,0 +1,12 @@
+C:\Users\Portable\Source\Repos\RevisionLabo3\RevisionLabo3\bin\Debug\RevisionLabo3.exe.config
+C:\Users\Portable\Source\Repos\RevisionLabo3\RevisionLabo3\bin\Debug\RevisionLabo3.exe
+C:\Users\Portable\Source\Repos\RevisionLabo3\RevisionLabo3\bin\Debug\RevisionLabo3.pdb
+C:\Users\Portable\Source\Repos\RevisionLabo3\RevisionLabo3\obj\Debug\RevisionLabo3.csprojResolveAssemblyReference.cache
+C:\Users\Portable\Source\Repos\RevisionLabo3\RevisionLabo3\obj\Debug\RevisionLabo3.frmMenu.resources
+C:\Users\Portable\Source\Repos\RevisionLabo3\RevisionLabo3\obj\Debug\RevisionLabo3.frmMVC.resources
+C:\Users\Portable\Source\Repos\RevisionLabo3\RevisionLabo3\obj\Debug\RevisionLabo3.Properties.Resources.resources
+C:\Users\Portable\Source\Repos\RevisionLabo3\RevisionLabo3\obj\Debug\RevisionLabo3.csproj.GenerateResource.Cache
+C:\Users\Portable\Source\Repos\RevisionLabo3\RevisionLabo3\obj\Debug\RevisionLabo3.csproj.CoreCompileInputs.cache
+C:\Users\Portable\Source\Repos\RevisionLabo3\RevisionLabo3\obj\Debug\RevisionLabo3.exe
+C:\Users\Portable\Source\Repos\RevisionLabo3\RevisionLabo3\obj\Debug\RevisionLabo3.pdb
+C:\Users\Portable\Source\Repos\RevisionLabo3\RevisionLabo3\obj\Debug\RevisionLabo3.frmDynamique.resources

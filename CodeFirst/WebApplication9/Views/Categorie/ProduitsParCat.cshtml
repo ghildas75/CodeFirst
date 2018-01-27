@@ -1,0 +1,28 @@
+﻿@model WebApplication9.Models.Categorie
+@{
+  ViewBag.Title="Produit par Catégorie";
+}
+<div class="container spacer">
+<form method="post">
+    <select asp-for="CategorieID" asp-items="ViewBag.ListCategories" onchange="this.form.submit()">
+         <option selected value="-1">Selectionner une catégorie</option>
+    </select>
+</form>
+</div>
+<div class="container">
+    <table class="table table-striped">
+        <tr>
+            <th>ID</th><th>Desgination</th><th>Prix</th>
+        </tr>
+        @foreach (var p in Model.Produits){
+        <tr>
+            <td>@p.ProduitId</td>
+            <td>@p.Designation</td>
+            <td>@p.Prix</td>
+        </tr>
+        
+        }
+    </table> 
+</div>
+<h2>ProduitsParCat</h2>
+

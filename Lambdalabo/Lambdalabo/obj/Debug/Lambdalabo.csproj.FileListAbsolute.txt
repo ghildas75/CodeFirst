@@ -1,0 +1,7 @@
+c:\users\portable\Source\Repos\Lambdalabo\Lambdalabo\bin\Debug\Lambdalabo.exe.config
+c:\users\portable\Source\Repos\Lambdalabo\Lambdalabo\bin\Debug\Lambdalabo.exe
+c:\users\portable\Source\Repos\Lambdalabo\Lambdalabo\bin\Debug\Lambdalabo.pdb
+c:\users\portable\Source\Repos\Lambdalabo\Lambdalabo\obj\Debug\Lambdalabo.csprojResolveAssemblyReference.cache
+c:\users\portable\Source\Repos\Lambdalabo\Lambdalabo\obj\Debug\Lambdalabo.csproj.CoreCompileInputs.cache
+c:\users\portable\Source\Repos\Lambdalabo\Lambdalabo\obj\Debug\Lambdalabo.exe
+c:\users\portable\Source\Repos\Lambdalabo\Lambdalabo\obj\Debug\Lambdalabo.pdb

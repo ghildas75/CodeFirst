@@ -1,0 +1,11 @@
+c:\users\portable\Source\Repos\tutoMVC\tutoMVC\bin\Debug\netcoreapp2.0\tutoMVC.deps.json
+c:\users\portable\Source\Repos\tutoMVC\tutoMVC\bin\Debug\netcoreapp2.0\tutoMVC.runtimeconfig.json
+c:\users\portable\Source\Repos\tutoMVC\tutoMVC\bin\Debug\netcoreapp2.0\tutoMVC.runtimeconfig.dev.json
+c:\users\portable\Source\Repos\tutoMVC\tutoMVC\bin\Debug\netcoreapp2.0\tutoMVC.dll
+c:\users\portable\Source\Repos\tutoMVC\tutoMVC\bin\Debug\netcoreapp2.0\tutoMVC.pdb
+c:\users\portable\Source\Repos\tutoMVC\tutoMVC\obj\Debug\netcoreapp2.0\tutoMVC.csprojResolveAssemblyReference.cache
+c:\users\portable\Source\Repos\tutoMVC\tutoMVC\obj\Debug\netcoreapp2.0\tutoMVC.csproj.CoreCompileInputs.cache
+c:\users\portable\Source\Repos\tutoMVC\tutoMVC\obj\Debug\netcoreapp2.0\tutoMVC.AssemblyInfoInputs.cache
+c:\users\portable\Source\Repos\tutoMVC\tutoMVC\obj\Debug\netcoreapp2.0\tutoMVC.AssemblyInfo.cs
+c:\users\portable\Source\Repos\tutoMVC\tutoMVC\obj\Debug\netcoreapp2.0\tutoMVC.dll
+c:\users\portable\Source\Repos\tutoMVC\tutoMVC\obj\Debug\netcoreapp2.0\tutoMVC.pdb

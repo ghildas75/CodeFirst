@@ -1,0 +1,10 @@
+C:\Users\Portable\Source\Repos\Delugue\ProjetLinq\bin\Debug\netcoreapp1.1\ProjetLinq.deps.json
+C:\Users\Portable\Source\Repos\Delugue\ProjetLinq\bin\Debug\netcoreapp1.1\ProjetLinq.runtimeconfig.json
+C:\Users\Portable\Source\Repos\Delugue\ProjetLinq\bin\Debug\netcoreapp1.1\ProjetLinq.runtimeconfig.dev.json
+C:\Users\Portable\Source\Repos\Delugue\ProjetLinq\bin\Debug\netcoreapp1.1\ProjetLinq.dll
+C:\Users\Portable\Source\Repos\Delugue\ProjetLinq\bin\Debug\netcoreapp1.1\ProjetLinq.pdb
+C:\Users\Portable\Source\Repos\Delugue\ProjetLinq\obj\Debug\netcoreapp1.1\ProjetLinq.csprojResolveAssemblyReference.cache
+C:\Users\Portable\Source\Repos\Delugue\ProjetLinq\obj\Debug\netcoreapp1.1\ProjetLinq.csproj.CoreCompileInputs.cache
+C:\Users\Portable\Source\Repos\Delugue\ProjetLinq\obj\Debug\netcoreapp1.1\ProjetLinq.AssemblyInfo.cs
+C:\Users\Portable\Source\Repos\Delugue\ProjetLinq\obj\Debug\netcoreapp1.1\ProjetLinq.dll
+C:\Users\Portable\Source\Repos\Delugue\ProjetLinq\obj\Debug\netcoreapp1.1\ProjetLinq.pdb

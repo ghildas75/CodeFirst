@@ -1,0 +1,16 @@
+{
+  "ExpandedNodes": [
+    "",
+    "\\ConsoleApp5",
+    "\\packages",
+    "\\packages\\EntityFramework.6.1.3",
+    "\\WebApplication9",
+    "\\WebApplication9\\bin",
+    "\\WebApplication9\\bin\\Release",
+    "\\WebApplication9\\Models",
+    "\\WebApplication9\\wwwroot",
+    "\\WebApplication9\\wwwroot\\css"
+  ],
+  "SelectedNode": "\\WebApplication9\\Views\\Categorie\\ListCategories.cshtml",
+  "PreviewInSolutionExplorer": false
+}

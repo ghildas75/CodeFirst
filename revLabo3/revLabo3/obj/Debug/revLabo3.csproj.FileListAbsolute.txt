@@ -1,0 +1,12 @@
+C:\Users\Portable\Source\Repos\revLabo3\revLabo3\bin\Debug\revLabo3.exe.config
+C:\Users\Portable\Source\Repos\revLabo3\revLabo3\bin\Debug\revLabo3.exe
+C:\Users\Portable\Source\Repos\revLabo3\revLabo3\bin\Debug\revLabo3.pdb
+C:\Users\Portable\Source\Repos\revLabo3\revLabo3\obj\Debug\revLabo3.csprojResolveAssemblyReference.cache
+C:\Users\Portable\Source\Repos\revLabo3\revLabo3\obj\Debug\revLabo3.frmAffichageDynamique.resources
+C:\Users\Portable\Source\Repos\revLabo3\revLabo3\obj\Debug\revLabo3.FrmMenu.resources
+C:\Users\Portable\Source\Repos\revLabo3\revLabo3\obj\Debug\revLabo3.FrmMvc.resources
+C:\Users\Portable\Source\Repos\revLabo3\revLabo3\obj\Debug\revLabo3.Properties.Resources.resources
+C:\Users\Portable\Source\Repos\revLabo3\revLabo3\obj\Debug\revLabo3.csproj.GenerateResource.Cache
+C:\Users\Portable\Source\Repos\revLabo3\revLabo3\obj\Debug\revLabo3.csproj.CoreCompileInputs.cache
+C:\Users\Portable\Source\Repos\revLabo3\revLabo3\obj\Debug\revLabo3.exe
+C:\Users\Portable\Source\Repos\revLabo3\revLabo3\obj\Debug\revLabo3.pdb

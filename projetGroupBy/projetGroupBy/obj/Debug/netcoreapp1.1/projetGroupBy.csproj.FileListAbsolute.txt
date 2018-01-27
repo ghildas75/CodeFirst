@@ -1,0 +1,10 @@
+C:\Users\Portable\Source\Repos\projetGroupBy\projetGroupBy\bin\Debug\netcoreapp1.1\projetGroupBy.deps.json
+C:\Users\Portable\Source\Repos\projetGroupBy\projetGroupBy\bin\Debug\netcoreapp1.1\projetGroupBy.runtimeconfig.json
+C:\Users\Portable\Source\Repos\projetGroupBy\projetGroupBy\bin\Debug\netcoreapp1.1\projetGroupBy.runtimeconfig.dev.json
+C:\Users\Portable\Source\Repos\projetGroupBy\projetGroupBy\bin\Debug\netcoreapp1.1\projetGroupBy.dll
+C:\Users\Portable\Source\Repos\projetGroupBy\projetGroupBy\bin\Debug\netcoreapp1.1\projetGroupBy.pdb
+C:\Users\Portable\Source\Repos\projetGroupBy\projetGroupBy\obj\Debug\netcoreapp1.1\projetGroupBy.csprojResolveAssemblyReference.cache
+C:\Users\Portable\Source\Repos\projetGroupBy\projetGroupBy\obj\Debug\netcoreapp1.1\projetGroupBy.csproj.CoreCompileInputs.cache
+C:\Users\Portable\Source\Repos\projetGroupBy\projetGroupBy\obj\Debug\netcoreapp1.1\projetGroupBy.AssemblyInfo.cs
+C:\Users\Portable\Source\Repos\projetGroupBy\projetGroupBy\obj\Debug\netcoreapp1.1\projetGroupBy.dll
+C:\Users\Portable\Source\Repos\projetGroupBy\projetGroupBy\obj\Debug\netcoreapp1.1\projetGroupBy.pdb

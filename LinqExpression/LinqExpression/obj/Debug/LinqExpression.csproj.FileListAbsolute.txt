@@ -1,0 +1,7 @@
+C:\Users\Portable\Source\Repos\LinqExpression\LinqExpression\bin\Debug\LinqExpression.exe.config
+C:\Users\Portable\Source\Repos\LinqExpression\LinqExpression\bin\Debug\LinqExpression.exe
+C:\Users\Portable\Source\Repos\LinqExpression\LinqExpression\bin\Debug\LinqExpression.pdb
+C:\Users\Portable\Source\Repos\LinqExpression\LinqExpression\obj\Debug\LinqExpression.csprojResolveAssemblyReference.cache
+C:\Users\Portable\Source\Repos\LinqExpression\LinqExpression\obj\Debug\LinqExpression.csproj.CoreCompileInputs.cache
+C:\Users\Portable\Source\Repos\LinqExpression\LinqExpression\obj\Debug\LinqExpression.exe
+C:\Users\Portable\Source\Repos\LinqExpression\LinqExpression\obj\Debug\LinqExpression.pdb

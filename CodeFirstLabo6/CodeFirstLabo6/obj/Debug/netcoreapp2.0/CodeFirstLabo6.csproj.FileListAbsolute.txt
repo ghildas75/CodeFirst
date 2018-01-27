@@ -1,0 +1,11 @@
+C:\Users\Portable\Source\Repos\CodeFirstLabo6\CodeFirstLabo6\bin\Debug\netcoreapp2.0\CodeFirstLabo6.deps.json
+C:\Users\Portable\Source\Repos\CodeFirstLabo6\CodeFirstLabo6\bin\Debug\netcoreapp2.0\CodeFirstLabo6.runtimeconfig.json
+C:\Users\Portable\Source\Repos\CodeFirstLabo6\CodeFirstLabo6\bin\Debug\netcoreapp2.0\CodeFirstLabo6.runtimeconfig.dev.json
+C:\Users\Portable\Source\Repos\CodeFirstLabo6\CodeFirstLabo6\bin\Debug\netcoreapp2.0\CodeFirstLabo6.dll
+C:\Users\Portable\Source\Repos\CodeFirstLabo6\CodeFirstLabo6\obj\Debug\netcoreapp2.0\CodeFirstLabo6.csprojResolveAssemblyReference.cache
+C:\Users\Portable\Source\Repos\CodeFirstLabo6\CodeFirstLabo6\obj\Debug\netcoreapp2.0\CodeFirstLabo6.csproj.CoreCompileInputs.cache
+C:\Users\Portable\Source\Repos\CodeFirstLabo6\CodeFirstLabo6\obj\Debug\netcoreapp2.0\CodeFirstLabo6.AssemblyInfoInputs.cache
+C:\Users\Portable\Source\Repos\CodeFirstLabo6\CodeFirstLabo6\obj\Debug\netcoreapp2.0\CodeFirstLabo6.AssemblyInfo.cs
+C:\Users\Portable\Source\Repos\CodeFirstLabo6\CodeFirstLabo6\bin\Debug\netcoreapp2.0\CodeFirstLabo6.pdb
+C:\Users\Portable\Source\Repos\CodeFirstLabo6\CodeFirstLabo6\obj\Debug\netcoreapp2.0\CodeFirstLabo6.dll
+C:\Users\Portable\Source\Repos\CodeFirstLabo6\CodeFirstLabo6\obj\Debug\netcoreapp2.0\CodeFirstLabo6.pdb

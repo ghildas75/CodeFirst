@@ -1,0 +1,8 @@
+C:\Users\Portable\Source\Repos\Examy\Examy\bin\Debug\netcoreapp2.0\Examy.deps.json
+C:\Users\Portable\Source\Repos\Examy\Examy\bin\Debug\netcoreapp2.0\Examy.runtimeconfig.json
+C:\Users\Portable\Source\Repos\Examy\Examy\bin\Debug\netcoreapp2.0\Examy.runtimeconfig.dev.json
+C:\Users\Portable\Source\Repos\Examy\Examy\bin\Debug\netcoreapp2.0\Examy.dll
+C:\Users\Portable\Source\Repos\Examy\Examy\obj\Debug\netcoreapp2.0\Examy.csprojResolveAssemblyReference.cache
+C:\Users\Portable\Source\Repos\Examy\Examy\obj\Debug\netcoreapp2.0\Examy.csproj.CoreCompileInputs.cache
+C:\Users\Portable\Source\Repos\Examy\Examy\obj\Debug\netcoreapp2.0\Examy.AssemblyInfoInputs.cache
+C:\Users\Portable\Source\Repos\Examy\Examy\obj\Debug\netcoreapp2.0\Examy.AssemblyInfo.cs
